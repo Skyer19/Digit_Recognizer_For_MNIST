@@ -11,4 +11,5 @@
 
 <img src="https://latex.codecogs.com/gif.latex?X&space;=&space;W&space;\cdot&space;I" title="X = W \cdot I" />
 这里的W是权重矩阵，I是输入矩阵，X是组合调节后的信号，即输入到第二层的结果矩阵
-通过激活函数，来自第二层的最终输出为: <img src="https://latex.codecogs.com/gif.latex?O&space;=&space;sigmoid(X)" title="O = sigmoid(X)" />
+<br>通过激活函数，来自第二层的最终输出为: 
+<img src="https://latex.codecogs.com/gif.latex?O&space;=&space;sigmoid(X)" title="O = sigmoid(X)" />
