@@ -15,8 +15,10 @@
 <img src="https://latex.codecogs.com/gif.latex?O&space;=&space;sigmoid(X)" title="O = sigmoid(X)" />
 
 ## 这里我们用三层神经网络(输入层，一层隐藏层，输出层)来举例
+#### 正向传递的过程
 <img src="https://latex.codecogs.com/gif.latex?X{_{hidden}}=&space;W{_{input_hiddden}}\cdot&space;I" title="X{_{hidden}}= W{_{input_hiddden}}\cdot I" />
 <img src="https://latex.codecogs.com/gif.latex?O{_{hidden}}=&space;sigmoid(X)" title="O{_{hidden}} = sigmoid(X)" />
 <img src="https://latex.codecogs.com/gif.latex?X{_{output}}=&space;W{_{hidden_output}}\cdot&space;O{_{hidden}}" title="X{_{output}}= W{_{hidden_output}}\cdot O{_{hidden}}" />
 <img src="https://latex.codecogs.com/gif.latex?O{_{output}}=&space;sigmoid(X{_{output}})" title="O{_{output}} = sigmoid(X{_{output}})" />
+#### 反向传递
 
