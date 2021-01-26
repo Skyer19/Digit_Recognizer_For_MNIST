@@ -13,8 +13,9 @@
 这里的W是权重矩阵(比如说W[1,2]表示第一层第一个节点与第二层第二个节点之间的权重)，I是输入矩阵，X是组合调节后的信号，即输入到第二层的结果矩阵
 <br>通过激活函数，来自第二层的最终输出为: 
 <img src="https://latex.codecogs.com/gif.latex?O&space;=&space;sigmoid(X)" title="O = sigmoid(X)" />
+
 ## 这里我们用三层神经网络(输入层，一层隐藏层，输出层)来举例
 <img src="https://latex.codecogs.com/gif.latex?X{_{hidden}}=&space;W{_{input_hiddden}}\cdot&space;I" title="X{_{hidden}}= W{_{input_hiddden}}\cdot I" />
 <img src="https://latex.codecogs.com/gif.latex?O{_{hidden}}=&space;sigmoid(X)" title="O{_{hidden}} = sigmoid(X)" />
-
+<img src="https://latex.codecogs.com/gif.latex?X{_{output}}=&space;W{_{hidden_output}}\cdot&space;O{_{hidden}}" title="X{_{output}}= W{_{hidden_output}}\cdot O{_{hidden}}" />
 
