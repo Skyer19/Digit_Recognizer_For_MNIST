@@ -22,4 +22,4 @@
 <img src="https://latex.codecogs.com/gif.latex?O{_{output}}=&space;sigmoid(X{_{output}})" title="O{_{output}} = sigmoid(X{_{output}})" />
 
 #### 反向传递
-
+<img src="https://latex.codecogs.com/gif.latex?error_{hidden}=W_{hidden_output}^{T}\cdot&space;error_{output}" title="error_{hidden}=W_{hidden_output}^{T}\cdot error_{output}" />
