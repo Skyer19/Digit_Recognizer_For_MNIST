@@ -29,3 +29,7 @@
 <img src="https://latex.codecogs.com/gif.latex?\left&space;(&space;target-actual&space;\right&space;)^{2}" title="\left ( target-actual \right )^{2}" /><br>
 <img src="https://latex.codecogs.com/gif.latex?targrt:" title="targrt" />目标值<br>
 <img src="https://latex.codecogs.com/gif.latex?actual:" title="actual" />实际值<br>
+以隐藏层与输出层之间的链接权重为例：
+<img src="https://t1.picb.cc/uploads/2021/02/07/Z11EXd.jpg" alt="Z11EXd.jpg" border="0" />
+
+
