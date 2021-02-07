@@ -28,4 +28,4 @@
 以梯度下降的方式，即计算出误差函数相当于权重的斜率，这里采用的误差函数是
 <img src="https://latex.codecogs.com/gif.latex?\left&space;(&space;target-actual&space;\right&space;)^{2}" title="\left ( target-actual \right )^{2}" /><br>
 <img src="https://latex.codecogs.com/gif.latex?targrt:" title="targrt" />目标值<br>
-<img src="https://latex.codecogs.com/gif.latex?targrt:" title="targrt" />实际值
+<img src="https://latex.codecogs.com/gif.latex?actual:" title="actual" />实际值<br>
