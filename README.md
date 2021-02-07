@@ -43,7 +43,7 @@
 <img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;}{\partial&space;x}sigmoid&space;\left&space;(&space;x&space;\right&space;)=sigmoid&space;\left&space;(&space;x&space;\right&space;)\left&space;(&space;1-sigmoid&space;\left&space;(&space;x&space;\right&space;)&space;\right&space;)" title="\frac{\partial }{\partial x}sigmoid \left ( x \right )=sigmoid \left ( x \right )\left ( 1-sigmoid \left ( x \right ) \right )" /><br>
 
 <!--最终公式-->
-<img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;E}{\partial&space;W_{i,j}}&space;=-\left&space;(&space;t_{k}-o_{k}&space;\right&space;)\cdot&space;sigmoid\left&space;(&space;\sum&space;_{j}W_{j,k}\cdot&space;O_{j}\right)\left&space;(&space;1-sigmoid\left&space;(&space;\sum&space;_{j}&space;W_{j,k}\cdot&space;O_{j}\right&space;)&space;\right&space;)O_{j}" title="\frac{\partial E}{\partial W_{i,j}} =-\left ( t_{k}-o_{k} \right )\cdot sigmoid\left ( \sum _{j}W_{j,k}\cdot O_{j}\right)\left ( 1-sigmoid\left ( \sum _{j} W_{j,k}\cdot O_{j}\right ) \right )O_{j}" />
+最终结果：<img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;E}{\partial&space;W_{i,j}}&space;=-\left&space;(&space;t_{k}-o_{k}&space;\right&space;)\cdot&space;sigmoid\left&space;(&space;\sum&space;_{j}W_{j,k}\cdot&space;O_{j}\right)\left&space;(&space;1-sigmoid\left&space;(&space;\sum&space;_{j}&space;W_{j,k}\cdot&space;O_{j}\right&space;)&space;\right&space;)O_{j}" title="\frac{\partial E}{\partial W_{i,j}} =-\left ( t_{k}-o_{k} \right )\cdot sigmoid\left ( \sum _{j}W_{j,k}\cdot O_{j}\right)\left ( 1-sigmoid\left ( \sum _{j} W_{j,k}\cdot O_{j}\right ) \right )O_{j}" /><br>
 
 
 ##### 同理，输入层与隐藏层之间的链接权重为：
