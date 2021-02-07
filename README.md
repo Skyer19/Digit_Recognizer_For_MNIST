@@ -33,6 +33,8 @@
 
 ##### 以隐藏层与输出层之间的链接权重为例：
 <img src="https://t1.picb.cc/uploads/2021/02/07/Z11EXd.jpg" alt="Z11EXd.jpg" border="0" />
+<img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;E}{\partial&space;W_{i,j}}&space;=\frac{\partial&space;}{\partial&space;W_{i,j}}\left&space;(&space;t_{k}&space;-&space;o_{k}&space;\right&space;)^{2}" title="\frac{\partial E}{\partial W_{i,j}} =\frac{\partial }{\partial W_{i,j}}\left ( t_{k} - o_{k} \right )^{2}" /><br>
+
 <img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;E}{\partial&space;W_{i,j}}&space;=-\left&space;(&space;t_{k}-o_{k}&space;\right&space;)\cdot&space;sigmoid\left&space;(&space;\sum&space;_{j}W_{j,k}\cdot&space;O_{j}\right)\left&space;(&space;1-sigmoid\left&space;(&space;\sum&space;_{j}&space;W_{j,k}\cdot&space;O_{j}\right&space;)&space;\right&space;)O_{j}" title="\frac{\partial E}{\partial W_{i,j}} =-\left ( t_{k}-o_{k} \right )\cdot sigmoid\left ( \sum _{j}W_{j,k}\cdot O_{j}\right)\left ( 1-sigmoid\left ( \sum _{j} W_{j,k}\cdot O_{j}\right ) \right )O_{j}" />
 
 
