@@ -33,4 +33,5 @@
 #### 以隐藏层与输出层之间的链接权重为例：
 <img src="https://t1.picb.cc/uploads/2021/02/07/Z11EXd.jpg" alt="Z11EXd.jpg" border="0" />
 
+#### 同理，输入层与隐藏层之间的链接权重为：
 
