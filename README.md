@@ -50,5 +50,5 @@
 
 <img src="https://latex.codecogs.com/gif.latex?\frac{\partial&space;E}{\partial&space;W_{i,j}}&space;=-\left&space;(&space;e_{j}&space;\right&space;)\cdot&space;sigmoid\left&space;(&space;\sum&space;_{i}W_{i,j}\cdot&space;O_{i}&space;\right&space;)\left(&space;1-sigmoid\left&space;(&space;\sum&space;_{i}W_{i,j}\cdot&space;O_{i}&space;\right&space;)&space;\right&space;)&space;O_{i}" title="\frac{\partial E}{\partial W_{i,j}} =-\left ( e_{j} \right )\cdot sigmoid\left ( \sum _{i}W_{i,j}\cdot O_{i} \right )\left( 1-sigmoid\left ( \sum _{i}W_{i,j}\cdot O_{i} \right ) \right ) O_{i}" />
 
-**更新权重** &space; <img src="https://latex.codecogs.com/gif.latex?new&space;W_{j,k}=old&space;W_{j,k}&space;-\alpha&space;\cdot&space;\frac{\partial&space;E}{\partial&space;W_{j,k}}" title="new W_{j,k}=old W_{j,k} -\alpha \cdot \frac{\partial E}{\partial W_{j,k}}" /><br>
+**更新权重** : <img src="https://latex.codecogs.com/gif.latex?new&space;W_{j,k}=old&space;W_{j,k}&space;-\alpha&space;\cdot&space;\frac{\partial&space;E}{\partial&space;W_{j,k}}" title="new W_{j,k}=old W_{j,k} -\alpha \cdot \frac{\partial E}{\partial W_{j,k}}" /><br>
 
