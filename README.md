@@ -23,3 +23,9 @@
 
 #### 反向传递
 <img src="https://latex.codecogs.com/gif.latex?error_{hidden}=W_{hidden\_output}^{T}\cdot&space;error_{output}" title="error_{hidden}=W_{hidden_output}^{T}\cdot error_{output}" />
+
+### 更新权重
+以梯度下降的方式，即计算出误差函数相当于权重的斜率，这里采用的误差函数是
+<img src="https://latex.codecogs.com/gif.latex?\left&space;(&space;target-actual&space;\right&space;)^{2}" title="\left ( target-actual \right )^{2}" /><br>
+target：目标值<br>
+actual：实际值
