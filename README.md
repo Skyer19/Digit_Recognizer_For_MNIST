@@ -53,3 +53,6 @@
 **更新权重** : <img src="https://latex.codecogs.com/gif.latex?new&space;W_{j,k}=old&space;W_{j,k}&space;-\alpha&space;\cdot&space;\frac{\partial&space;E}{\partial&space;W_{j,k}}" title="new W_{j,k}=old W_{j,k} -\alpha \cdot \frac{\partial E}{\partial W_{j,k}}" /><br>
 
 <img src="https://latex.codecogs.com/gif.latex?\partial&space;=learning\_rate" title="\partial =learning\_rate" />学习率☺️<br>
+
+*注意⚠️*初始权重可以随机选取，但要尽可能的小，但不能为零
+
