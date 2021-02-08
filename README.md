@@ -3,7 +3,7 @@
 
 **目前准确率: 97.307%(02/8/2021)**
 
-**本项目操作方法见operation.md(https://github.com/mengyu666/Digit_Recognizer_For_MNIST/blob/main/operation.md)**
+**本项目操作方法见[operation.md](https://github.com/mengyu666/Digit_Recognizer_For_MNIST/blob/main/operation.md)**
 ## 相关概念
 
 - 正向传播：在神经网络中，我们使用权重，将信号从输入向前传播到输出层
