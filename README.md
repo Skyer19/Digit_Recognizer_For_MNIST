@@ -1,7 +1,7 @@
 # Digit_Recognizer_For_MNIST
 **2020年fzu西二在线python三轮考核**
 
-**目前准确率: 97.307%**
+**目前准确率: 97.307(02/8/2021)%**
 
 **本项目操作方法见operation.md**
 ## 相关概念
